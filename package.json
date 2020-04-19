@@ -1,0 +1,16 @@
+{
+    "name": "nodejs-instagram-bot",
+    "version": "1.0.0",
+    "description": "simple Instagram Bot",
+    "main": "src/app.mjs",
+    "repository": "git@github.com:bernard-ng/nodejs-instagram-bot.git",
+    "author": "bernard-ng <ngandubernard@gmail.com>",
+    "license": "MIT",
+    "dependencies": {
+        "dotenv": "^8.2.0",
+        "puppeteer": "^3.2.0"
+    },
+    "scripts": {
+        "start": "node --experimental-modules src/app.mjs"
+    }
+}
