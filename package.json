@@ -7,7 +7,7 @@
     "author": "bernard-ng <ngandubernard@gmail.com>",
     "license": "MIT",
     "dependencies": {
-        "dotenv": "^8.2.0",
+        "dotenv": "^9.0.0",
         "puppeteer": "^5.2.1"
     },
     "scripts": {
