@@ -7,8 +7,8 @@
     "author": "bernard-ng <ngandubernard@gmail.com>",
     "license": "MIT",
     "dependencies": {
+        "puppeteer": "^9.1.1"
         "dotenv": "^10.0.0",
-        "puppeteer": "^5.2.1"
     },
     "scripts": {
         "start": "node src/app.js"
